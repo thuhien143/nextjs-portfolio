@@ -36,21 +36,13 @@ const TestimonialSlider = () => {
             image="/images/c1.jpg" 
             name="Nguyen Thi Thu Hien" 
             role="Web Developer"
-        />
-        <ClientReview 
-            image="/images/c2.png" 
-            name="Nguyen Dinh Hoang" 
-            role="MERN Stack Developer" 
-        />
-        <ClientReview 
-            image="/images/c3.png" 
-            name="Nguyen Tung Lam" 
-            role="Next JS Developer" 
+            review="Enthusiastic, Friendly, Creative"
         />
         <ClientReview 
             image="/images/c4.jpg" 
             name="Bui Dinh Sy Giang" 
             role="React Developer" 
+            review="Hardworking, Aesthetic, Creative"
         />
     </Carousel>
   )

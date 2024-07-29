@@ -16,7 +16,7 @@ const Footer = () => {
                         Address
                     </h1>
                     <p className='text-[17px] w-[90%] text-white opacity-60'>
-                        Lorem, ipsum dolor sit
+                        Duong Noi, Ha Dong, Ha Noi
                     </p>
                 </div>
             </div>
@@ -45,8 +45,7 @@ const Footer = () => {
                         Send Us Email
                     </h1>
                     <p className='text-[17px] w-[90%] text-white opacity-60'>
-                        example@gmail.com <br />
-                        example.com
+                        hiennguyen.bgk@gmail.com <br />
                     </p>
                 </div>
             </div>

@@ -17,7 +17,7 @@ const About = () => {
                 <div className='mb-[3rem] flex items-center md:space-x-10'>
                     <span className='w-[100px] hidden md:block h-[5px] bg-slate-400 rounded-sm'></span>
                     <p className='text-[19px] text-slate-300 w-[80%]'>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tristique, felis molestie blandit facilisis, magna turpis egestas massa, in gravida augue augue id libero. 
+                        As a meticulous individual with experience in user interface design and a passion for creating responsive user experiences, I am also someone who thrives on creativity and continuous learning.
                     </p>
                 </div>
                 <a href="/file/cv.pdf" download="CV - Nguyen Thi Thu Hien.pdf" className='inline-flex px-[2rem] hover:bg-purple-300 transition-all duration-200 py-[1rem] text-[18px]
