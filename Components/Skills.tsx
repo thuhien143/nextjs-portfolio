@@ -14,7 +14,7 @@ const Skills = () => {
                 <SkillsItem 
                     title="React Developer" 
                     year="2024 - 2024" 
-                    desc="I have completed an online course on React, where I acquired and applied skills to real-world projects." 
+                    desc="I have completed an online course on React, where I acquired and applied skills to real-world projects, such as the Blog and Taka websites." 
                 />
                 <SkillsItem 
                     title="MERN Stack Developer" 
