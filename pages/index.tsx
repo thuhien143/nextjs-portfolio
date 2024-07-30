@@ -45,7 +45,7 @@ const HomePage = () => {
   }, [])
 
   return (
-    <section id='#' className='overflow-x-hidden'>
+    <section id='home' className='overflow-x-hidden'>
       <div>
         <MobileNav nav={nav} closeNav={closeNav}/>
         <Nav openNav={openNav} />
