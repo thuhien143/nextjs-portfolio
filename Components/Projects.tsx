@@ -22,12 +22,14 @@ const Projects = () => {
             <div data-aos="fade-up" data-aos-delay="300">
                 <div className='transform cursor-pointer hover:-translate-y-6 transition-all duration-200 relative 
                 w-[100%] h-[200px] md:h-[300px]'>
-                    <Image 
-                        src="/images/p2.png"
-                        alt="portfolio"
-                        layout="fill"
-                        className="object-contain"
-                    />
+                    <a href="https://thuhien143.github.io/Obey-Me/" target="_blank" rel="noopener noreferrer">
+                        <Image 
+                            src="/images/p2.png"
+                            alt="portfolio"
+                            layout="fill"
+                            className="object-contain"
+                        />
+                    </a>
                 </div>
             </div>
             <div data-aos="fade-up" data-aos-delay="600">
